@@ -1,0 +1,48 @@
+{
+  "name": "@dhavalptl/uicomponents",
+  "author": "Dhaval",
+  "version": "1.0.0",
+  "description": "React UI Components Starter",
+  "license": "MIT",
+  "main": "lib/cjs/index.js",
+  "module": "lib/esm/index.js",
+  "typings": "lib/cjs/index.d.ts",
+  "files": [
+    "lib/"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "react",
+    "ui-components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhavalptl/ui-components-starter.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "clear": "rm -rf ./lib",
+    "start": "tsc --watch",
+    "build": "npm run clear && tsc -p tsconfig.json && tsc -p tsconfig.cjs.json",
+    "test": "jest",
+    "lint": "eslint src --ext .tsx,.ts,.js",
+    "lint:fix": "eslint src --ext .tsx,.ts,.js --fix",
+    "prepare": "npm run build",
+    "storybook": "start-storybook -p 5000"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "devDependencies": {
+    "tslib": "^2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint && npm run test"
+    }
+  }
+}
