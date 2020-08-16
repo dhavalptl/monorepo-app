@@ -5,7 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "lerna run build --stream",
+    "clear": "lerna run clear --stream --parallel",
+    "build": "lerna run build --stream --parallel",
     "lint": "lerna run lint --stream",
     "test": "lerna run test --stream"
   },

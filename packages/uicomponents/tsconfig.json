@@ -4,7 +4,6 @@
       "declaration": true,
       "sourceMap": true,
       "importHelpers": true,
-      "rootDir": "./src",
       "outDir": "./lib/esm",
       "jsx": "react"
     },

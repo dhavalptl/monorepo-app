@@ -35,7 +35,7 @@
     "storybook": "start-storybook -p 5000"
   },
   "peerDependencies": {
-    "react": ">=16"
+    "react": ">=16.13.1"
   },
   "devDependencies": {
     "tslib": "^2.0.1"
