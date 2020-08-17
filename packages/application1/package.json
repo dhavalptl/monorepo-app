@@ -1,6 +1,6 @@
 {
   "name": "@dhavalptl/application1",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Application1",
   "main": "index.js",
   "files": [
@@ -29,7 +29,7 @@
   },
   "publishConfig": {
     "access": "restricted",
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "http://localhost:4873"
   },
   "devDependencies": {
     "html-webpack-plugin": "^4.3.0",
@@ -38,7 +38,7 @@
     "webpack-merge": "^5.0.9"
   },
   "dependencies": {
-    "@dhavalptl/uicomponents": "^1.0.16"
+    "@dhavalptl/uicomponents": "^1.0.17"
   },
   "peerDependencies": {
     "react": ">=16.13.1",
