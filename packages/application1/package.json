@@ -1,6 +1,6 @@
 {
   "name": "@dhavalptl/application1",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Application1",
   "main": "index.js",
   "scripts": {
@@ -35,7 +35,7 @@
     "webpack-merge": "^5.0.9"
   },
   "dependencies": {
-    "@dhavalptl/uicomponents": "^1.0.9"
+    "@dhavalptl/uicomponents": "^1.0.10"
   },
   "peerDependencies": {
     "react": ">=16.13.1",
