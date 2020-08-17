@@ -1,6 +1,6 @@
 {
     "name": "@dhavalptl/server",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Express Server",
     "main": "lib/cjs/index.js",
     "module": "lib/esm/index.js",
