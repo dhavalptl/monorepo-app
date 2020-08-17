@@ -35,11 +35,11 @@
     "webpack-merge": "^5.0.9"
   },
   "dependencies": {
-    "@dhavalptl/uicomponents": "^1.0.5"
+    "@dhavalptl/uicomponents": "^1.0.0"
   },
   "peerDependencies": {
     "react": ">=16.13.1",
     "react-dom": ">=16.13.1"
   },
-  "gitHead": "07a0e460e57a99b06f2cf4dbf61b36991ec69e85"
+  "gitHead": "07a1bf94beb20edb8edf3685e3708868604a6798"
 }

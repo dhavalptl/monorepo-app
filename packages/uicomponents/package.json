@@ -1,7 +1,7 @@
 {
   "name": "@dhavalptl/uicomponents",
   "author": "Dhaval",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "React UI Components Starter",
   "license": "MIT",
   "main": "lib/cjs/index.js",
@@ -40,7 +40,8 @@
     "react": ">=16.13.1"
   },
   "devDependencies": {
-    "tslib": "^2.0.1"
+    "tslib": "^2.0.1",
+    "typescript": "^3.9.7"
   },
   "husky": {
     "hooks": {
