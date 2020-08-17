@@ -1,7 +1,7 @@
 {
   "name": "@dhavalptl/uicomponents",
   "author": "Dhaval",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "React UI Components Starter",
   "license": "MIT",
   "main": "lib/cjs/index.js",
@@ -48,5 +48,5 @@
       "pre-commit": "npm run lint && npm run test"
     }
   },
-  "gitHead": "6e99b1c0a6b7d40933c27ced9830387139b9b3fd"
+  "gitHead": "0f907f1784d0a11b23fb5198522d543806a9530e"
 }
