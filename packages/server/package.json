@@ -1,6 +1,6 @@
 {
     "name": "@dhavalptl/server",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "description": "Express Server",
     "main": "lib/cjs/index.js",
     "module": "lib/esm/index.js",
@@ -52,5 +52,5 @@
             "pre-commit": "npm run lint && npm run test"
         }
     },
-    "gitHead": "f005417a28e7b393fe9fc2903f95c82a5d438850"
+    "gitHead": "6e99b1c0a6b7d40933c27ced9830387139b9b3fd"
 }
