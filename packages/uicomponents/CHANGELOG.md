@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.11](https://github.com/dhavalptl/monorepo-app/compare/@dhavalptl/uicomponents@1.0.10...@dhavalptl/uicomponents@1.0.11) (2020-08-17)
+
+**Note:** Version bump only for package @dhavalptl/uicomponents
+
+
+
+
+
 ## [1.0.10](https://github.com/dhavalptl/monorepo-app/compare/@dhavalptl/uicomponents@1.0.9...@dhavalptl/uicomponents@1.0.10) (2020-08-17)
 
 **Note:** Version bump only for package @dhavalptl/uicomponents
