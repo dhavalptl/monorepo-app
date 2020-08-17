@@ -52,5 +52,5 @@
             "pre-commit": "npm run lint && npm run test"
         }
     },
-    "gitHead": "632c992c89b9ae187cf0e84aa59252ceba80fa9b"
+    "gitHead": "528115980d864161db327a9a2533d654cccb9274"
 }
