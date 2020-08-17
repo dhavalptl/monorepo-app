@@ -4,11 +4,12 @@
       "declaration": true,
       "sourceMap": true,
       "importHelpers": true,
+      "rootDir": "./src",
       "outDir": "./lib/esm",
       "jsx": "react",
-      "isolatedModules": false
+      "isolatedModules": true
     },
     "include": ["src/**/*"],
-    "exclude": ["node_modules", "lib", ".storybook", "src/**/*.test.tsx", "src/**/*.stories.tsx"]
+    "exclude": ["node_modules", "lib", ".storybook", "src/**/*.test.tsx", "src/**/*.test.ts", "src/**/*.stories.tsx"]
 }
   
