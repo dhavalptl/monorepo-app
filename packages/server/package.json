@@ -32,7 +32,7 @@
     },
     "publishConfig": {
         "access": "restricted",
-        "registry": "https://npm.pkg.github.com"
+        "registry": "https://npm.pkg.github.com/"
     },
     "dependencies": {
         "express": "^4.17.1"
@@ -52,5 +52,5 @@
             "pre-commit": "npm run lint && npm run test"
         }
     },
-    "gitHead": "528115980d864161db327a9a2533d654cccb9274"
+    "gitHead": "8a3d42b59a8d6bf26775ac9516e50352220e22a3"
 }
