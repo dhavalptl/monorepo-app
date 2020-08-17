@@ -5,7 +5,7 @@ const App: React.FC = () => {
         <div>
             <header>
                 <h2>React Application</h2>
-                <Button title="Test" onClick={() => {
+                <Button title="Test Application2" onClick={() => {
                     console.log("Button Clicked");
                 }}/>
             </header>
