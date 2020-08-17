@@ -19,6 +19,15 @@
   ],
   "author": "Dhaval",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhavalptl/monorepo-app.git",
+    "directory": "packages/application2"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "html-webpack-plugin": "^4.3.0",
     "webpack-cli": "^3.3.12",

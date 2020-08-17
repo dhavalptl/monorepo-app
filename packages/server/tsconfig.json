@@ -6,7 +6,8 @@
       "importHelpers": true,
       "rootDir": "./src",
       "outDir": "./lib/esm",
-      "jsx": "react"
+      "jsx": "react",
+      "isolatedModules": false
     },
     "include": ["src/**/*"],
     "exclude": ["node_modules", "lib", "src/**/*.test.tsx"]

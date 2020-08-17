@@ -19,10 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhavalptl/ui-components-starter.git"
+    "url": "https://github.com/dhavalptl/monorepo-app.git",
+    "directory": "packages/uicomponents"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "clear": "rm -rf ./lib",

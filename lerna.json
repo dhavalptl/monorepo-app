@@ -7,11 +7,10 @@
   "version": "independent",
   "command": {
     "publish": {
-      "allowBranch": "master"
-    },
-    "version": {
       "allowBranch": "master",
-      "noPush": true
+      "conventionalCommits": true,
+      "message": "chore(release): publish",
+      "registry": "https://npm.pkg.github.com"
     }
   }
 }
