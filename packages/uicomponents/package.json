@@ -1,7 +1,7 @@
 {
   "name": "@dhavalptl/uicomponents",
   "author": "Dhaval",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React UI Components Starter",
   "license": "MIT",
   "main": "lib/cjs/index.js",
